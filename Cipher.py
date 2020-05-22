@@ -1,7 +1,7 @@
 import time
 
 print("////////////////////////////////////////")
-print("//     Caesar Cipher                  //")
+print("//     Caesar Cipher ASCII            //")
 print("////////////////////////////////////////")
 print("\nWelcome!")
 print("\nChoose an option from the following menu: ")
